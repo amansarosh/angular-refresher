@@ -1,3 +1,6 @@
+# Live App
+[Live App](https://confident-panini-2d9a0b.netlify.app/)
+
 # ClickerApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
